@@ -25,5 +25,12 @@ public class Day13 {
         
        System.out.println("a: " + a);       
        System.out.println("b: " + b);
+
+       // nomor 5
+       byte min = -128;
+       byte max = 127;
+
+       System.out.println("minimal: " + min);       
+       System.out.println("maximal: " + max + 1);
 }
 }
