@@ -31,6 +31,6 @@ public class Day13 {
        byte max = 127;
 
        System.out.println("minimal: " + min);       
-       System.out.println("maximal: " + max + 1);
+       System.out.println("maximal: " + (max + 1));
 }
 }
