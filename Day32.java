@@ -12,7 +12,7 @@ public static void main(String[] args) {
     String b3 = String.valueOf(b2);
     System.out.println("int: " + b3);
     
-    long w4 = 30825748;
+    long w4 = 30825748L;
     String b4 = String.valueOf(b3);
     System.out.println("long: " + b4);
     
