@@ -16,10 +16,10 @@ public static void main(String[] args) {
     w.nextLine();
 
     System.out.print("alamat: ");
-    String alamat = w.next();
+    String alamat = w.nextLine();
     
     System.out.print("kelas: ");
-    String kelas = w.next();
+    String kelas = w.nextLine();
     
     System.out.print("berat badan: ");
     float bb = w.nextFloat();
@@ -29,10 +29,10 @@ public static void main(String[] args) {
     w.nextLine();
     
     System.out.print("pesan dan kesan: ");
-    String pk = w.next();
+    String pk = w.nextLine();
     
     System.out.print("motivasi: ");
-    String motivasi = w.next();
+    String motivasi = w.nextLine();
 }
     
 }
