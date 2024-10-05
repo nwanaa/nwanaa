@@ -13,7 +13,8 @@ public static void main(String[] args) {
     
     System.out.print("umur: ");
     int umur = w.nextInt();
-    
+    w.nextLine();
+
     System.out.print("alamat: ");
     String alamat = w.next();
     
@@ -25,6 +26,7 @@ public static void main(String[] args) {
     
     System.out.print("tinggi badan: ");
     double tb = w.nextDouble();
+    w.nextLine();
     
     System.out.print("pesan dan kesan: ");
     String pk = w.next();
