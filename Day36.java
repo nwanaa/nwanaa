@@ -1,11 +1,11 @@
 public class Day36 {
 public static void main(String[] args) {
-   int w1 = 30;
-   int w2 = 3;
+   double w1 = 30;
+   double w2 = 4;
    
-   int kali = w1 * w2;
-   int bagi = w1 / w2;
-   int modulus = w1 % w2;
+   double kali = w1 * w2;
+   double bagi = w1 / w2;
+   double modulus = w1 % w2;
    
     System.out.println("hasil kali: " + kali);
     System.out.println("hasil bagi: " + bagi);
