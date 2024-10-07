@@ -1,7 +1,7 @@
 public class Day36 {
 public static void main(String[] args) {
    int w1 = 30;
-   int w2 = 2;
+   int w2 = 3;
    
    int kali = w1 * w2;
    int bagi = w1 / w2;
