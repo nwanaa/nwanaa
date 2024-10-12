@@ -35,15 +35,6 @@ public class Day41 {
         System.out.println("keliling: " + 2 * (panjang + lebar));
         System.out.println("luas: " + panjang * lebar);
         
-        //nomor 4
-        int md = 37;
-        int pl = 26;
-        md = md + pl;
-        pl = md - pl;
-        md = md - pl;
-        
-        System.out.println("md: " + md);
-        System.out.println("pl: " + pl);
     }
 
 }
