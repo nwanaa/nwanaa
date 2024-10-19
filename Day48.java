@@ -4,12 +4,12 @@ import java.util.Scanner;
 public class Day48 {
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner wana = new Scanner(System.in);
 
         System.out.print("nama: ");
-        String nama = scan.nextLine();
+        String nama = wana.nextLine();
         System.out.print("nilai: ");
-        int nilai = scan.nextInt();
+        int nilai = wana.nextInt();
 
         if (nilai > 50) {
             System.out.println("selamat " + nama + ", kamu lulus tes");
