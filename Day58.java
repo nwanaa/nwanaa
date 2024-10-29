@@ -1,4 +1,4 @@
-public class Day57 {
+public class Day58 {
 
     public static void main(String[] args) {
         short r = 30;
