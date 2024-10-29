@@ -1,4 +1,4 @@
-public class Day56 {
+public class Day57 {
 
     public static void main(String[] args) {
         byte w = 0;
