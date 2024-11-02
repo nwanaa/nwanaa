@@ -6,15 +6,14 @@ public class Day62 {
         Scanner wana = new Scanner(System.in);
 
         int angka_awal = wana.nextInt();
-        boolean loop = true;
-        
-        while (loop) {
+
+        while (true) {
             int angka = wana.nextInt();
             if (angka == angka_awal + 1) {
                 angka_awal = angka;
             } else {
                 System.out.println("angka tidak berurut");
-                loop = false;
+                break;
             }
         }
     }
