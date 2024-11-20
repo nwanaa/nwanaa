@@ -19,7 +19,7 @@ public class Day80 {
             System.out.println("sebelum trim: '" + text + "'");
             System.out.println("setelah trim: '" + nospa + "'");
 
-            String hasil = (nospa.isEmpty()) ? "string kosong setelah trim" : "string tidak kosong setelah trim";
+            String hasil = (nospa.length() == 0) ? "string kosong setelah trim" : "string tidak kosong setelah trim";
 
             System.out.println(hasil);
         }
