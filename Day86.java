@@ -13,6 +13,10 @@ public class Day86 {
             System.out.print("indeks ke-" + i + ": ");
             nilai[i] = input.nextInt();
         }
+        System.out.println("elemen di dalam array: ");
+        for (int w : nilai){
+            System.out.println(w);
+        }
     }
 
 }
