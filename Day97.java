@@ -4,16 +4,13 @@ public class Day97 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("masukkan nilai n: ");
+        System.out.print("masukkan nilai n: ");
         int n = input.nextInt();
 
-            for (int i = 1; i <= n; i++) {
-            if (i == 1) {
-                continue;
-            }
+            for (int i = 2; i <= n; i++) {
             boolean prima = true;
 
-            for (int j = 1; j < i; j++) {
+            for (int j = 2; j < i; j++) {
                 if (i % j == 0) {
                     prima = false;
                     break;
