@@ -31,11 +31,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&theme=tokyonight&hide_border=false&icon_color=FF69B4" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&theme=tokyonight&hide_border=false&ring=FF69B4&fire=FF69B4" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&theme=tokyonight&hide_border=false&title_color=FF69B4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&theme=dracula&hide_border=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="400" />
 </p>
 
 ---
@@ -43,7 +44,7 @@
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
 ---
