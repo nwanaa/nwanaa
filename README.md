@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/Figma-FF5EAE?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-FE91CA?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
+
+---
 ## 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d&icon_color=cc3366" width="450" />
@@ -37,7 +39,7 @@
 </p>
 
 
-# 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=nwanaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
