@@ -1,17 +1,16 @@
-<h1 align="center" style="color: #F8A5C2;">Hi there, I'm Nwanaa! 🌸</h1>
-<p align="center" style="color: #F8A5C2;">🌷 Passionate Mobile Developer in the Making | Loves Aesthetic UI & Clean Code ✨</p>
+<h1 align="center" style="color: #F8A5C2;">allooo aku wini</h1>
+<p align="center" style="color: #F8A5C2;"></p>
 
 ---
 
-## 💁‍♀️ About Me
+##  About Me
 
-🌱 I’m currently diving into the world of **Mobile Development** using Flutter & Dart  
 📬 Reach me at: [winituuu@gmail.com](mailto:winituuu@gmail.com)  
 💖 Fun fact: I think I’m funny (and maybe you will too!)
 
 ---
 
-## 🛠️ My Lovely Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -31,15 +30,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff99c8&text_color=ff66b3&icon_color=ff66b3" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&hide_border=true&background=FFFFFF&ring=ff66b3&fire=ff99c8&currStreakLabel=ff66b3&sideLabels=ff99c8&dates=ff66b3&sideNums=ff66b3&currStreakNum=ff66b3" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff99c8&text_color=ff66b3" width="450" />
 </p>
 
 ---
@@ -48,4 +47,3 @@
   <img src="https://visitcount.itsvg.in/api?id=nwanaa&label=Profile%20Views&icon=5&pretty=true" />
 </p>
 
-<p align="center"><i>✨ Made with love and a sprinkle of pink! ✨</i></p>
