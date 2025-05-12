@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Adobe-FE91CA?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d&icon_color=cc3366" width="450" />
 </p>
