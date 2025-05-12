@@ -38,9 +38,7 @@
 
 
 ## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20Repos-Pink%20Power-ff99c8?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
 ![](https://github-contributor-stats.vercel.app/api?username=nwanaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
