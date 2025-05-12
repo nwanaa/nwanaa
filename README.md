@@ -1,16 +1,27 @@
-<h1 align="left" style="color: #F8A5C2;">allooo aku wini</h1>
+<h1 align="center">Hi there, I'm Nwanaa! 🌸</h1>
+<p align="center">🌷 Passionate Mobile Developer in the Making | Loves Aesthetic UI & Clean Code ✨</p>
 
 ---
 
-## 💫 About Me
+## 💁‍♀️ About Me
 
-📬 Reach me at: [winituuu@gmail.com](mailto:winituuu@gmail.com)  
-
+🌱 I’m currently diving into the world of **Mobile Development** using Flutter & Dart  
+📬 Reach me at: [ahmadhanif13125@gmail.com](mailto:ahmadhanif13125@gmail.com)  
 💖 Fun fact: I think I’m funny (and maybe you will too!)
 
 ---
 
-## 🛠️ Tech Stack
+## 💖 Find Me Here
+
+<p align="center">
+  <a href="https://instagram.com/ahmd_khnf">
+    <img src="https://img.shields.io/badge/@ahmd_khnf-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ My Lovely Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -29,18 +40,21 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d&icon_color=cc3366" width="450" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&theme=tokyonight&hide_border=false&icon_color=FF69B4" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&theme=tokyonight&hide_border=false&ring=FF69B4&fire=FF69B4" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&theme=tokyonight&hide_border=false&title_color=FF69B4" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&hide_border=true&background=ffe6f0&ring=cc3366&fire=ff6699&currStreakLabel=cc3366&sideLabels=cc3366&dates=66334d&sideNums=cc3366&currStreakNum=cc3366" width="450" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d" width="450" />
-</p>
+## 💬 Dev Quote of the Day
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
