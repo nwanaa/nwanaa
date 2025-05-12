@@ -1,4 +1,4 @@
-<h1 align="left" style="color: #F8A5C2;">aloo, aku wanaa! 🌸</h1>
+<h1 align="left" style="color: #F8A5C2;">aloo, aku wanaa</h1>
 
 ---
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Figma-FF5EAE?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-FE91CA?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d&icon_color=cc3366" width="450" />
 </p>
@@ -37,19 +37,9 @@
 </p>
 
 
-## 🔝 Most Loved Projects
+## 🔝 Top Contributed Repo
 
-<p align="left">
-  <a href="https://github.com/nwanaa/project-1">
-    <img src="https://img.shields.io/badge/Project_1-Cutie%20App-ffb6c1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/nwanaa/project-2">
-    <img src="https://img.shields.io/badge/Project_2-Widget%20Wonder-fec8d8?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/nwanaa/project-3">
-    <img src="https://img.shields.io/badge/Project_3-Smooth%20UI-ff99c8?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nwanaa&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nwanaa&icon=0&color=0)](https://visitcount.itsvg.in)
