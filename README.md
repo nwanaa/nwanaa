@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #F8A5C2;">aloo, aku wanaa! 🌸</h1>
+<h1 align="left" style="color: #F8A5C2;">aloo, aku wanaa! 🌸</h1>
 
 ---
 
@@ -11,7 +11,7 @@
 ---
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-FD7C6E?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -24,26 +24,35 @@
   <img src="https://img.shields.io/badge/Adobe-FE91CA?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
 # 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d&icon_color=cc3366" width="450" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&hide_border=true&background=ffe6f0&ring=cc3366&fire=ff6699&currStreakLabel=cc3366&sideLabels=cc3366&dates=66334d&sideNums=cc3366&currStreakNum=cc3366" width="450" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d" width="450" />
 </p>
 
 
-## 🔝 Top Contributed Repo
+## 🔝 Most Loved Projects
 
-![](https://github-contributor-stats.vercel.app/api?username=nwanaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://github.com/nwanaa/project-1">
+    <img src="https://img.shields.io/badge/Project_1-Cutie%20App-ffb6c1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/nwanaa/project-2">
+    <img src="https://img.shields.io/badge/Project_2-Widget%20Wonder-fec8d8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/nwanaa/project-3">
+    <img src="https://img.shields.io/badge/Project_3-Smooth%20UI-ff99c8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nwanaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
