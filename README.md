@@ -50,16 +50,16 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 </p>
 
-<p align="center">
+<p align="left>
   <span style="color: pink; font-size: 1.5em;">✨ Let's code with a sprinkle of pink! ✨</span>
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <span style="font-style: italic; color: #66334d;">“Code is like humor. When you have to explain it, it’s bad.” – Cory House</span>
 </p>
