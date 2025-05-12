@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Nwanaa! 🌸</h1>
-<p align="center">🌷 Passionate Mobile Developer in the Making | Loves Aesthetic UI & Clean Code ✨</p>
+<h1 align="center" style="color: #F8A5C2;">Hi there, I'm Nwanaa! 🌸</h1>
+<p align="center" style="color: #F8A5C2;">🌷 Passionate Mobile Developer in the Making | Loves Aesthetic UI & Clean Code ✨</p>
 
 ---
 
@@ -31,15 +31,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&theme=radical&hide_border=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&theme=great-gatsby&hide_border=true" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&theme=radical&hide_border=true&langs_count=6" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&theme=great-gatsby&hide_border=true&langs_count=6" width="450" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=great-gatsby" />
 </p>
 
 ---
