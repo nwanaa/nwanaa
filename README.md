@@ -47,7 +47,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nwanaa&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 </p>
@@ -58,6 +57,7 @@
 
 ---
 <p align="center">
-  <span style="font-style: italic; color: #FF69B4; font-size: 1.2em; font-weight: bold;">“Code is like humor. When you have to explain it, it’s bad.” – Cory House</span>
+  <span style="font-style: italic; color: #FF69B4; font-size: 1.5em; font-weight: bold; background-color: #fff0f5; padding: 10px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">“Code is like humor. When you have to explain it, it’s bad.” – Cory House</span>
 </p>
+
 
