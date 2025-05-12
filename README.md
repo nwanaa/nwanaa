@@ -1,11 +1,11 @@
-<h1 align="center" style="color: #F8A5C2;">allooo aku wini</h1>
-<p align="center" style="color: #F8A5C2;"></p>
+<h1 align="left" style="color: #F8A5C2;">allooo aku wini</h1>
 
 ---
 
-##  About Me
+## 💫 About Me
 
 📬 Reach me at: [winituuu@gmail.com](mailto:winituuu@gmail.com)  
+
 💖 Fun fact: I think I’m funny (and maybe you will too!)
 
 ---
@@ -29,17 +29,18 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff99c8&text_color=ff66b3&icon_color=ff66b3" width="450" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d&icon_color=cc3366" width="450" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&hide_border=true&background=FFFFFF&ring=ff66b3&fire=ff99c8&currStreakLabel=ff66b3&sideLabels=ff99c8&dates=ff66b3&sideNums=ff66b3&currStreakNum=ff66b3" width="450" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&hide_border=true&background=ffe6f0&ring=cc3366&fire=ff6699&currStreakLabel=cc3366&sideLabels=cc3366&dates=66334d&sideNums=cc3366&currStreakNum=cc3366" width="450" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff99c8&text_color=ff66b3" width="450" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&hide_border=true&bg_color=ffe6f0&title_color=cc3366&text_color=66334d" width="450" />
 </p>
+
 
 ---
 
@@ -47,3 +48,4 @@
   <img src="https://visitcount.itsvg.in/api?id=nwanaa&label=Profile%20Views&icon=5&pretty=true" />
 </p>
 
+<p align="center"><i>✨ Made with love and a sprinkle of pink! ✨</i></p>
