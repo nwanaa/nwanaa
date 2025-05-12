@@ -31,12 +31,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&theme=dracula&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nwanaa&show_icons=true&theme=radical&hide_border=true" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwanaa&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwanaa&layout=compact&theme=radical&hide_border=true&langs_count=6" width="450" />
 </p>
 
 ---
@@ -44,7 +47,7 @@
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
